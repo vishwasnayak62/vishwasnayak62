@@ -1,16 +1,174 @@
-## Hi there 👋
+# Hi 👋, I'm Vishwas Nayak
 
-<!--
-**vishwasnayak62/vishwasnayak62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Enthusiast | Python Developer | Software Developer | Data Science Aspirant
 
-Here are some ideas to get you started:
+<p align="left">
+I am a AI & DS Graduate passionate about building AI-powered applications,
+solving real-world problems, and continuously learning modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My goal is to become an AI Engineer and Software Developer by building impactful projects.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 AI & DS Graduate
+- 🌱 Currently learning Machine Learning, Deep Learning and Generative AI
+- 💻 Interested in AI, Software Development and Data Science
+- 🔭 Currently building AI-powered web applications using Flask
+- 📚 Learning Cloud Computing and System Design
+- 🤝 Open to Internship Opportunities
+  
+---
+
+## 💼 Career Objective
+
+Aspiring Software Engineer and AI Engineer with strong foundations in Python,
+Machine Learning and Full Stack Development.
+
+I enjoy developing applications that solve practical problems and continuously
+improving my skills through hands-on projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+### Frameworks
+
+- Flask
+
+### Databases
+
+- MySQL
+- MongoDB
+- TiDB
+
+### Machine Learning
+
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+
+### Cloud
+
+- AWS (Learning)
+- Google Cloud (Learning)
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+Features
+
+- Resume Upload
+- Resume Score
+- Skill Gap Analysis
+- AI Career Suggestions
+- Learning Roadmap
+- Resume History
+- Interview Questions
+- User Authentication
+
+Technology
+
+Python • Flask • TiDB • Bootstrap • Gemini API
+
+---
+
+### 🔐 Password Manager
+
+Features
+
+- Generate Secure Passwords
+- Store Passwords
+- Retrieve Passwords
+
+Technology
+
+Python
+
+---
+
+## 📈 Current Learning
+
+✔ Advanced Python
+
+✔ Machine Learning
+
+✔ Deep Learning
+
+✔ Generative AI
+
+✔ Flask
+
+✔ Cloud Computing
+
+✔ System Design
+
+✔ Data Structures & Algorithms
+
+---
+
+## 📊 GitHub Stats
+
+(Add GitHub Stats Card)
+
+---
+
+## 🔥 GitHub Streak
+
+(Add GitHub Streak Card)
+
+---
+
+## 💻 Most Used Languages
+
+(Add Language Card)
+
+---
+
+## 📈 Contribution Graph
+
+(Add Contribution Snake or Activity Graph)
+
+---
+
+
+## 💡 Interests
+
+Artificial Intelligence
+
+Machine Learning
+
+Data Science
+
+Software Engineering
+
+Web Development
+
+Cloud Computing
+
+Automation
+
+Open Source
+
+---
