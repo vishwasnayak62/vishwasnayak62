@@ -130,7 +130,7 @@ Python
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwasnayak62&show_icons=true&theme=tokyonight)
+![Vishwas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwasnayak62&show_icons=true&theme=tokyonight)
 
 ---
 
