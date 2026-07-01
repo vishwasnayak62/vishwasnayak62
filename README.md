@@ -130,25 +130,10 @@ Python
 
 ## 📊 GitHub Stats
 
-(Add GitHub Stats Card)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwasnayak62&show_icons=true&theme=tokyonight)
 
 ---
-
-## 🔥 GitHub Streak
-
-(Add GitHub Streak Card)
-
----
-
-## 💻 Most Used Languages
-
-(Add Language Card)
-
----
-
-## 📈 Contribution Graph
-
-(Add Contribution Snake or Activity Graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Vishwas+Nayak;AI+Engineer+in+Progress;Python+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
